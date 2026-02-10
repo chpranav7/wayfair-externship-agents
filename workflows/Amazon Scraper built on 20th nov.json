@@ -245,11 +245,11 @@
           "parameters": [
             {
               "name": "key",
-              "value": "AIzaSyAWtw5CHjYLyeJUEmsHxyWyn4YRdIHUgR0"
+              "value": "YOUR_GOOGLE_CSE_API_KEY"
             },
             {
               "name": "cx",
-              "value": "84bfc0e6fd22c428c"
+              "value": "YOUR_GOOGLE_CSE_CX"
             },
             {
               "name": "q",
